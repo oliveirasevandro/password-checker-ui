@@ -1,0 +1,17 @@
+{
+  "name": "password-checker-ui",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Evandro Oliveira <eoliveira@kenzan.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
